@@ -1,2 +1,2 @@
 # Python-Git
- Primeiro repositorio
+ Primeiro repositório Python
